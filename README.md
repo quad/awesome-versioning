@@ -18,6 +18,8 @@ Welcome to our curated list of all things awesome related to the practice of ver
 
 _Helpful programs to ease the hard task of assigning versions._
 
+- [Semantic Version Util (svu)](https://github.com/caarlos0/svu) <!-- 2017-12-14, 89bb82f --> - Print the current version, increase patch/minor/major manually or just get the next tag based on your git log.
+
 - [BumpVer](https://github.com/mbarkhau/bumpver) <!-- 2018-11-12, 431596f --> - Search for and update version strings in your project files.
 
 ## Versioning Schemes

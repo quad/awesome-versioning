@@ -2,7 +2,7 @@
 
 <!-- Please fill in the below placeholders 🙏 -->
 
-**[Insert URL to the awesome thing there]**
+[Insert URL to the awesome thing there]
 
 ## Requirements for your pull request
 

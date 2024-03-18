@@ -7,11 +7,18 @@ Welcome to our curated list of all things awesome related to the practice of ver
 
 ## Contents
 
+- [Tools](#tools)
 - [Versioning Schemes](#versioning-schemes)
     - [General Schemes](#general-schemes)
     - [Restricted Schemes](#restricted-schemes)
 
 ---
+
+## Tools
+
+_Helpful programs to ease the hard task of assigning versions._
+
+- [BumpVer](https://github.com/mbarkhau/bumpver) <!-- 2018-11-12, 431596f --> - Search for and update version strings in your project files.
 
 ## Versioning Schemes
 

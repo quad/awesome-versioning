@@ -71,4 +71,4 @@ _Programmers are warned that the author(s) or maintainer(s) of the following sch
 
 - [Haskell Package Versioning Policy (PVP)](https://pvp.haskell.org/) <!-- 2014-04-09, ecc928d --> - An attempt to formalize the informal policy in use in the Haskell community.
 
-- [WendtVer](https://wendtver.org/) - Version numbers and the way they change convey utter chaos and no meaning about the underlying code, but are easy to figure out what the next version will be.
+- [WendtVer](https://wendtver.org/) <!-- 2017-09 --> - Version numbers and the way they change convey utter chaos and no meaning about the underlying code, but are easy to figure out what the next version will be.

@@ -52,6 +52,8 @@ _The author(s) or maintainer(s) of the following schemes **MAY** intend them for
 
 - [SoloVer](https://beza1e1.tuxen.de/SoloVer) <!-- 2024-03-16 --> - Intentionally do not try to communicate "backward compatibility" as there is no objective and satisfying definition anyways.
 
+- [Kelvin Versioning](https://wiki.xxiivv.com/site/kelvin_versioning.html) <!-- 2024-03-31, b095a43 --> - A supporting component must always be strictly cooler than anything it supports, or be at absolute zero conjointly with anything it supports.
+
 - [Pride Versioning](https://mastodon.online/@nikitonsky/113691789641950263) <!-- 2024-12-22 --> - Bump when you are proud (or ashamed).
 
 ### Restricted Schemes

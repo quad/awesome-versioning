@@ -56,6 +56,8 @@ _The author(s) or maintainer(s) of the following schemes **MAY** intend them for
 
 - [Pride Versioning](https://mastodon.online/@nikitonsky/113691789641950263) <!-- 2024-12-22 --> - Bump when you are proud (or ashamed).
 
+- [Pace Versioning](https://pacever.org/) <!-- 2026-06-02, 880293f --> - Version your app by the pace each release travels at.
+
 ### Restricted Schemes
 
 _Programmers are warned that the author(s) or maintainer(s) of the following schemes **MAY NOT** intend them for general use._

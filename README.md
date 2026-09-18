@@ -22,6 +22,8 @@ _Helpful programs to ease the hard task of assigning versions._
 
 - [BumpVer](https://github.com/mbarkhau/bumpver) <!-- 2018-11-12, 431596f --> - Search for and update version strings in your project files.
 
+- [zerv](https://github.com/wislertt/zerv) <!-- 2025-08-10, 0b7c755 --> - Generate a version for every build from any Git state, with SemVer, PEP 440, and CalVer output.
+
 ## Versioning Schemes
 
 _Unique ways to uniquely version the unique states of unique projects!_

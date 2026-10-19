@@ -24,6 +24,8 @@ _Helpful programs to ease the hard task of assigning versions._
 
 - [zerv](https://github.com/wislertt/zerv) <!-- 2025-08-10, 0b7c755 --> - Generate a version for every build from any Git state, with SemVer, PEP 440, and CalVer output.
 
+- [relnote](https://github.com/loki-inu/relnote) <!-- 2026-08-16, c1015ee --> - Print the next SemVer tag from the Conventional Commits since the last tag (breaking → major, feat → minor, otherwise patch), with per-path and tag-prefix support for monorepos.
+
 ## Versioning Schemes
 
 _Unique ways to uniquely version the unique states of unique projects!_

@@ -62,6 +62,8 @@ _The author(s) or maintainer(s) of the following schemes **MAY** intend them for
 
 - [Pace Versioning](https://pacever.org/) <!-- 2026-06-02, 880293f --> - Version your app by the pace each release travels at.
 
+- [Lite Versioning (LiteVer)](https://litever.org/) <!-- 2026-10-19, bad61e2 --> - Two numbers, one question: will this break me?
+
 ### Restricted Schemes
 
 _Programmers are warned that the author(s) or maintainer(s) of the following schemes **MAY NOT** intend them for general use._
